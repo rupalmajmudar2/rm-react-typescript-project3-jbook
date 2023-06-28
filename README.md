@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+npx create-react-app rm-react-ts-proj-3-jbook --template typescript
+git remote add origin https://github.com/rupalmajmudar2/rm-react-typescript-project3-jbook.git
+npm install --save esbuild-wasm 
+    docs: esbuild.github.io -> API -> Transform API
+    copy esbuild.wasm from node-modules/esbuild-wasm and paste into public/ : bcos we want this file (compiled code) to be fetched by the browser, to be inside of our browser. Every file in public/ is.
+
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
