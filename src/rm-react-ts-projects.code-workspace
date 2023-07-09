@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../rm-react-ts-students"
+		},
+		{
+			"path": "../../rm-react-ts-shipment-tracking"
+		},
+		{
+			"path": "../../rm-react-ts-todo-list"
+		},
+		{
+			"path": "../../rm-react-blog-posts"
+		},
+		{
+			"path": "../../rm-react-ts-proj-1"
+		},
+		{
+			"path": "../../rm-react-ts-proj-2-redux"
+		},
+		{
+			"path": "../../bundler"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"vscode-corda.isCordaProject": false,
+		"liveServer.settings.multiRootWorkspaceName": "rm-react-ts-shipment-tracking"
+	}
+}
